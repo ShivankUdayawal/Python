@@ -9,3 +9,11 @@
 #### 6. Frozenset : immutable remain the same after creation
 #### 7. Byte : convert objects into bytes objects, or create empty bytes object of the specified size
 #### 8. Bytearray : bytearray object which is an array of the given bytes
+
+#### 9. Operators : 
+  1. 𝘈𝘳𝘪𝘵𝘩𝘮𝘦𝘵𝘪𝘤 𝘖𝘱𝘦𝘳𝘢𝘵𝘰𝘳𝘴
+  2. 𝘊𝘰𝘮𝘱𝘢𝘳𝘪𝘴𝘰𝘯 𝘖𝘱𝘦𝘳𝘢𝘵𝘰𝘳𝘴
+  3. 𝘓𝘰𝘨𝘪𝘤𝘢𝘭 𝘖𝘱𝘦𝘳𝘢𝘵𝘰𝘳𝘴
+  4. 𝘈𝘴𝘴𝘪𝘨𝘯𝘮𝘦𝘯𝘵 𝘖𝘱𝘦𝘳𝘢𝘵𝘰𝘳𝘴
+  5. 𝘉𝘪𝘵𝘸𝘪𝘴𝘦 𝘖𝘱𝘦𝘳𝘢𝘵𝘰𝘳
+  6. 𝘊𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯𝘢𝘭 𝘖𝘱𝘦𝘳𝘢𝘵𝘰𝘳𝘴
