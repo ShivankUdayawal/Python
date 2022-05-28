@@ -22,3 +22,9 @@
   a) 𝑩𝒖𝒊𝒍𝒕-𝒊𝒏 𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏𝒔 : Functions that are predefined. We have used many predefined functions in Python.
   
   b) 𝑼𝒔𝒆𝒓- 𝑫𝒆𝒇𝒊𝒏𝒆𝒅 : Functions that are created according to the requirements.
+  
+  𝑺𝒚𝒏𝒕𝒂𝒙 :  
+             
+             def myfun(x):
+                 
+                 return x
