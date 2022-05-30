@@ -28,3 +28,5 @@
              def myfun(x):
                  
                  return x
+
+#### 11. 𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒂𝒓𝒈𝒖𝒎𝒆𝒏𝒕𝒔 : have default values, default value can be written in the format "argument1 = value"
