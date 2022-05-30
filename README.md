@@ -30,3 +30,6 @@
                  return x
 
 #### 11. 𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒂𝒓𝒈𝒖𝒎𝒆𝒏𝒕𝒔 : have default values, default value can be written in the format "argument1 = value"
+
+           def ages(ramana, chanti = 27, suresh = 23):
+	                     print('Ages is : Ramana is - ', ramana,', Chanti - ',chanti, ', Suresh - ',suresh)
