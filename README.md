@@ -41,6 +41,3 @@
 
 ##### 13. 𝑨𝒓𝒃𝒊𝒕𝒓𝒂𝒓𝒚 𝒂𝒓𝒈𝒖𝒎𝒆𝒏𝒕 : an another way to pass arguments to a function, these arguments will be wrapped in a tuple & it can be defined with *𝒂𝒓𝒈𝒔 construct. Before this variable, we can define a number of arguments or no argument.
 
-
-
-
