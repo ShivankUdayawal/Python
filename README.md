@@ -1,8 +1,17 @@
 # Python
 ## Basic Concepts of Python
 
-#### 1. tuple : collection of ordered and unchnageable, allow duplicates
-#### 2. list  : collection of ordered and chnageable, allow duplicates
+| Sr. No | Topic | Description | Link |
+| --- | --- | --- | --- |
+|  1 |  Tuple |  collection of ordered and unchnageable, allow duplicates |
+| 2  |  List  |  collection of ordered and chnageable, allow duplicates   |
+
+
+
+
+
+
+
 #### 3. set   : collection of unordered, unchnageable and unindexed, no duplicates
 #### 4. Dictionary : collection of ordered & changeable, no duplicates
 #### 5. Range : sequence of no, starting from 0 by default & increments by 1
