@@ -3,7 +3,7 @@
 
 | Sr. No | Topic | Description | Link |
 | --- | --- | --- | --- |
-|  1 |  Tuple |  collection of ordered and unchnageable, allow duplicates |
+|  1 |  Tuple |  collection of ordered and unchnageable, allow duplicates | shorturl.at/KLMU9 |
 | 2  |  List  |  collection of ordered and chnageable, allow duplicates   |
 | 3  |  Set   | collection of unordered, unchnageable and unindexed, no duplicates |
 | 4  | Dictionary | collection of ordered & changeable, no duplicates |
