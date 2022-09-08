@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 |  1 |  Tuple |  collection of ordered and unchnageable, allow duplicates | [shorturl.at/KLMU9](https://github.com/ShivankUdayawal/Python/tree/main/1.%20Tuple) |
 | 2  |  List  |  collection of ordered and chnageable, allow duplicates   | [shorturl.at/mrx58](https://github.com/ShivankUdayawal/Python/tree/main/2.%20List)  |
-| 3  |  Set   | collection of unordered, unchnageable and unindexed, no duplicates |
+| 3  |  Set   | collection of unordered, unchnageable and unindexed, no duplicates | [shorturl.at/IKS04](https://github.com/ShivankUdayawal/Python/tree/main/3.%20Set) |
 | 4  | Dictionary | collection of ordered & changeable, no duplicates |
 #### 5. Range : sequence of no, starting from 0 by default & increments by 1
 #### 6. Frozenset : immutable remain the same after creation
